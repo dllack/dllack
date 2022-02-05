@@ -1,4 +1,4 @@
-Olá, seu bem vindo ao meu gitHub!
+Olá! Seu bem vindo ao meu gitHub!
 
  <div>
   <a href="https://github.com/dllack">
